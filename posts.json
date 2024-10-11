@@ -7,6 +7,13 @@
         "guid": "https://hogrefe-thies.github.io/draft-hsi-feed/post1"
     },
     {
+        "title": "Third Blog Post",
+        "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post3",
+        "description": "Details about the third post",
+        "pubDate": "Fri, 11 Oct 2024 16:65:00 GMT",
+        "guid": "https://hogrefe-thies.github.io/draft-hsi-feed/post3"
+    },
+    {
         "title": "Second Blog Post",
         "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post2",
         "description": "Details about the second post",
