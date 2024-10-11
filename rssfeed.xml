@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Your RSS Feed Title</title>
+        <link>https://username.github.io/my-rss-feed/</link>
+        <description>Your feed description</description>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 01 Jan 2024 12:00:00 GMT</lastBuildDate>
+        <item>
+            <title>First Blog Post</title>
+            <link>https://username.github.io/my-rss-feed/post1</link>
+            <description>Details about the first post</description>
+            <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
+            <guid>https://username.github.io/my-rss-feed/post1</guid>
+        </item>
+    </channel>
+</rss>
