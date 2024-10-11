@@ -5,13 +5,23 @@
         <link>https://username.github.io/my-rss-feed/</link>
         <description>Your feed description</description>
         <language>en-us</language>
-        <lastBuildDate>Mon, 01 Jan 2024 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 16:32:59 GMT</lastBuildDate>
+
         <item>
             <title>First Blog Post</title>
-            <link>https://username.github.io/my-rss-feed/post1</link>
+            <link>https://hogrefe-thies.github.io/draft-hsi-feed/post1</link>
             <description>Details about the first post</description>
             <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
-            <guid>https://username.github.io/my-rss-feed/post1</guid>
+            <guid>https://hogrefe-thies.github.io/draft-hsi-feed/post1</guid>
         </item>
+    
+        <item>
+            <title>Second Blog Post</title>
+            <link>https://hogrefe-thies.github.io/draft-hsi-feed/post2</link>
+            <description>Details about the second post</description>
+            <pubDate>Wed, 03 Jan 2024 08:30:00 GMT</pubDate>
+            <guid>https://hogrefe-thies.github.io/draft-hsi-feed/post2</guid>
+        </item>
+    
     </channel>
 </rss>
