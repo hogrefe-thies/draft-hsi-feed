@@ -1,14 +1,14 @@
 [
     {
         "title": "First Blog Post",
-        "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post1"
+        "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post1",
         "description": "Details about the first post",
         "pubDate": "Mon, 01 Jan 2024 12:00:00 GMT",
         "guid": "https://hogrefe-thies.github.io/draft-hsi-feed/post1"
     },
     {
         "title": "Second Blog Post",
-        "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post2"
+        "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post2",
         "description": "Details about the second post",
         "pubDate": "Wed, 03 Jan 2024 08:30:00 GMT",
         "guid": "https://hogrefe-thies.github.io/draft-hsi-feed/post2"
