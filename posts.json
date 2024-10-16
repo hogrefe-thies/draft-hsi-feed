@@ -1,5 +1,12 @@
 [
     {
+        "title": "Fourth Blog Post",
+        "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post4",
+        "description": "Final commit push github action test",
+        "pubDate": "Wed, 16 Oct 2024 15:00:00 GMT",
+        "guid": "https://hogrefe-thies.github.io/draft-hsi-feed/post4"
+    },
+    {
         "title": "First Blog Post",
         "link": "https://hogrefe-thies.github.io/draft-hsi-feed/post1",
         "description": "Details about the first post",
