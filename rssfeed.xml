@@ -26,7 +26,7 @@
         <item>
             <title>Third Blog Post</title>
             <link>https://hogrefe-thies.github.io/draft-hsi-feed/post3</link>
-            <description>Details about the third post</description>
+            <description>Details about the third post now with enclosure</description>
             <pubDate>Fri, 11 Oct 2024 16:65:00 GMT</pubDate>
             <guid>https://hogrefe-thies.github.io/draft-hsi-feed/post3</guid>
             <enclosure url="http://www.scripting.com/mp3s/weatherReportSuite.mp3" length="12216320" type="audio/mpeg" />
